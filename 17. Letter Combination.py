@@ -28,5 +28,5 @@ class Solution:
         backtrack("",digits)
         return result
 
-sol = Solution()
-print(sol.letterCombinations("34"))
+# sol = Solution()
+# print(sol.letterCombinations("34"))
